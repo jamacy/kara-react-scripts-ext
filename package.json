@@ -1,0 +1,138 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "kara-react-scripts-ext",
+        "scope": null,
+        "escapedName": "kara-react-scripts-ext",
+        "name": "kara-react-scripts-ext",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      ""
+    ]
+  ],
+  "_from": "kara-react-scripts-ext@latest",
+  "_id": "kara-react-scripts-ext@0.0.2",
+  "_inCache": true,
+  "_location": "/kara-react-scripts-ext",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/kara-react-scripts-ext-0.0.2.tgz_1499936555574_0.3779987327288836"
+  },
+  "_npmUser": {
+    "name": "chrevans",
+    "email": "jamacry@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "kara-react-scripts-ext",
+    "scope": null,
+    "escapedName": "kara-react-scripts-ext",
+    "name": "kara-react-scripts-ext",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/kara-react-scripts-ext/-/kara-react-scripts-ext-0.0.2.tgz",
+  "_shasum": "3a7b006bb6b5280e29a807eeec29a9a818be24ae",
+  "_shrinkwrap": null,
+  "_spec": "kara-react-scripts-ext",
+  "_where": "",
+  "bin": {
+    "react-scripts": "./bin/react-scripts.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jamacy/kara-react-scripts-ext/issues"
+
+  },
+  "dependencies": {
+    "autoprefixer": "7.1.0",
+    "babel-core": "6.24.1",
+    "babel-eslint": "7.2.3",
+    "babel-jest": "20.0.3",
+    "babel-loader": "7.0.0",
+    "babel-preset-react-app": "^3.0.0",
+    "babel-runtime": "6.23.0",
+    "case-sensitive-paths-webpack-plugin": "1.1.4",
+    "chalk": "1.1.3",
+    "css-loader": "0.28.1",
+    "dotenv": "4.0.0",
+    "eslint": "3.19.0",
+    "eslint-config-react-app": "^1.0.4",
+    "eslint-loader": "1.7.1",
+    "eslint-plugin-flowtype": "2.33.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "5.0.3",
+    "eslint-plugin-react": "7.0.1",
+    "extract-text-webpack-plugin": "2.1.0",
+    "file-loader": "0.11.1",
+    "fs-extra": "3.0.1",
+    "fsevents": "1.1.2",
+    "html-webpack-plugin": "2.28.0",
+    "jest": "20.0.3",
+    "node-sass": "^4.5.3",
+    "object-assign": "4.1.1",
+    "postcss-flexbugs-fixes": "3.0.0",
+    "postcss-loader": "2.0.5",
+    "postcss-pxtorem": "^4.0.1",
+    "postcss-utilities": "^0.7.0",
+    "promise": "7.1.1",
+    "react-dev-utils": "^3.0.0",
+    "react-error-overlay": "^1.0.7",
+    "resolve-url-loader": "^2.0.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "0.17.0",
+    "sw-precache-webpack-plugin": "0.9.1",
+    "url-loader": "0.5.8",
+    "webpack": "2.6.1",
+    "webpack-dev-server": "2.4.5",
+    "webpack-manifest-plugin": "1.1.0",
+    "whatwg-fetch": "2.0.3"
+  },
+  "description": "Configuration and scripts for Create React App.",
+  "devDependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "3a7b006bb6b5280e29a807eeec29a9a818be24ae",
+    "tarball": "https://registry.npmjs.org/kara-react-scripts-ext/-/kara-react-scripts-ext-0.0.2.tgz"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "bin",
+    "config",
+    "scripts",
+    "template",
+    "utils"
+  ],
+  "homepage": "https://github.com/jamacy/kara-react-scripts-ext#readme",
+  "license": "BSD-3-Clause",
+  "maintainers": [
+    {
+      "name": "chrevans",
+      "email": "jamacry@gmail.com"
+    }
+  ],
+  "name": "kara-react-scripts-ext",
+  "optionalDependencies": {
+    "fsevents": "1.1.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamacy/kara-react-scripts-ext.git"
+  },
+  "scripts": {},
+  "version": "0.0.3"
+}
